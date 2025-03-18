@@ -1,5 +1,5 @@
 # 👋 Hi, Im Hayden!
-🚀 Studying at ASU Online<br><br>📖 Computer Science & Data Science Major | Studying Cyber Security On My Own<br><br>👨‍💻 Former College D2 Soccer Athlete, at Point Loma Nazarene University<br><br>🖥️ Java | Python | A+ Certification |<br><br><br>
+🚀 Studying at ASU Online<br><br>📖 Computer Science & Data Science Major | Studying Cyber Security On My Own<br><br>👨‍💻 Former College D2 Soccer Athlete, at Point Loma Nazarene University<br><br>🖥️ Currently working on Java | Python | A+ Certification |<br><br><br>
 
 
 ## 🌐 Socials:
