@@ -1,3 +1,6 @@
+# 💫 About Me:
+🚀 Studying at ASU Online<br><br>📖 Computer Science & Data Science Major | Studying Cyber Security On My Own<br><br>👨‍💻 Former College D2 Soccer Athlete, at Point Loma Nazarene University<br><br>🖥️ Java | Python | A+ Certification |<br><br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hayden._.Snyder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HaydenSnyder) 
